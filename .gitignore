@@ -1,0 +1,8 @@
+# Ignore compiled files and build directories
+*.exe
+*.o
+*.out
+*.json
+*.txt
+build/
+bin/
