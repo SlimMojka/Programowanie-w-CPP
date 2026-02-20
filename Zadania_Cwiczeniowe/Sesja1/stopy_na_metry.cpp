@@ -16,5 +16,5 @@ int main()
     cout << h_stopy << " stopy to: " << h_metry << " metra/metrow." << endl;
 
     return 0;
-
+    
 }
